@@ -1,4 +1,4 @@
-# Olá, eu sou a Eva 👋
+# Olá, eu sou a Eva Gabriela 👋
 
 📊 Graduada em Tecnologia em Banco de Dados pela PUC Minas, construindo minha trajetória em **Business Intelligence e Engenharia de Dados**.
 
